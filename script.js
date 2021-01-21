@@ -6,11 +6,11 @@ console.log(start)
 start.addEventListener("click", function() {
     intro.style.display = "none"
     document.getElementById("start-quiz").textContent = questions[0].question;
-    textContent = choices[0];
+    
 })
 
 
-var 
+var choices = document.getElementsByTagName("choices");
 var questions = 
 
 [

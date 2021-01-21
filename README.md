@@ -1,1 +1,2 @@
 # apiCodeQuiz
+In this project I generated a Code Quiz using jQuery. When first loading up the site you are greeting with a home page including timer, start button, and higher score. When pressing start timer should begin and quiz will begin tracking score of answers, with wrong answers being penalized by subtracted time off the clock. When timer reaches 0 then game is over.
